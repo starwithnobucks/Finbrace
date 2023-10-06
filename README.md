@@ -30,16 +30,13 @@ Over the forecast period, the Algorithmic Trading Market is expected to grow at 
 In this model, we have made use of The Long Short Term Memory (LSTM) network which is a type of recurrent neural network (RNN) capable of addressing linear problems. LSTM is a deep learning technique and its units are enforced to learn very long sequences. An LSTM module has a cell state and three gates, giving it the ability to learn, unlearn, or retain information from each of the units selectively. By allowing only a few linear interactions, the cell state in LSTM allows information to travel across the units without being altered. Each unit contains an input, output, and a forget gate that adds or removes data from the cell state. The forget gate utilises a sigmoid function to determine whether information from the previous cell state should be ignored. The input gate uses a point-wise multiplication operation of'sigmoid' and 'tanh' to control the information flow to the current cell state. Finally, the output gate determines which data should be sent to the next concealed state. 
 
 ## Project Team
-Guidance Professor: Dr. Varalakshmi M, School of Computer Science and Engineering, VIT Vellore.
+Guidance Professor: Dr. Badrinath N, School of Computer Science and Engineering, VIT Vellore.
 
 Team members:
 
 |Sl.No. | Name  | Registration No. |
 |-| ------------- |:-------------:|
-|1|   Arjun Das      | 20BDS0129     |
-|2| Dharmik Naicker  | 20BCB0148     |
-|3|  Isha Agarwal    | 20BCB0103     |
-|4|  Manav Malhotra  | 20BCB0133     |
+|1|  Manav Malhotra  | 20BCB0133     |
 
 ## Project Objective
 
